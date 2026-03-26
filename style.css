@@ -1,0 +1,31 @@
+header{
+    background-color: yellow;
+    padding: 20px;
+}
+nav{
+    background-color: yellow;
+    padding: 10px;
+    width: 200px;
+    height: 430px;
+    margin-top: 10px;
+}
+.sectMain{
+    background-color: yellow;
+    width: 890px;
+    margin-left: 230px;
+    height: 450px;
+    margin-top: -465px;
+}
+.sectAd{
+    background-color: yellow;
+    padding: 10px;
+    width: 200px;
+    height: 430px;
+    margin-left: 1130px;
+    margin-top: -450px;
+}
+footer{
+    background-color: yellow;
+    padding: 20px;
+    margin-top: 10px;
+}
